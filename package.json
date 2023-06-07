@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdfkit": "^0.13.0"
+    "html2pdf.js": "^0.10.1",
+    "jspdf": "^2.5.1",
+    "pdfkit": "^0.13.0",
+    "puppeteer": "^20.5.0"
   }
 }

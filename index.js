@@ -1,8 +1,8 @@
-const { createInvoice } = require("./createInvoice.js");
+const { createInvoice } = require("./createInvoiceOriginal.js");
 
 const invoice = {
   shipping: {
-    name: "John Doe",
+    name: "Nico",
     address: "1234 Main Street",
     city: "San Francisco",
     state: "CA",
